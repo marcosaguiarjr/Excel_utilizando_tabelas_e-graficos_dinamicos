@@ -1,9 +1,11 @@
 # Excel: utilizando tabelas e graficos dinamicos
 
-🧩 Conceitos Fundamentais
+## 🧩 Conceitos Fundamentais
 Neste curso da Alura, aprendemos a aplicar gráficos e tabelas dniâmicas no Excel, aprimorando nossa capacidade de automatizar e analisar dados de forma inteligente.
 
-🔍 Funções de Pesquisa e Referência
+---
+
+## 🔍 Funções de Pesquisa e Referência
 Conheça as funcionalidades das tabelas dinâmicas e gráficos dinâmicos no Microsoft Excel
 
 Explore dados de forma abrangente, identificando padrões e relações através de análises multifacetadas
